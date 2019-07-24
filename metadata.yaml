@@ -1,0 +1,26 @@
+_repo: The-Love-Story-of-Aliette-Brunton_59931
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Frankau, Gilbert
+    birthdate: 1884
+    deathdate: 1952
+    gutenberg_agent_id: '40564'
+    url: http://www.gutenberg.org/2009/agents/40564
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Frankau
+description: ''
+gutenberg_issued: '2019-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59931'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'English fiction -- 20th century'
+- !lcc 'PR'
+- GITenberg
+title: The Love-Story of Aliette Brunton
+url: http://www.gutenberg.org/ebooks/59931
